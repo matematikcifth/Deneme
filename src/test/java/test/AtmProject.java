@@ -11,6 +11,9 @@ public class AtmProject {
         System.out.println("Git ogrenmek cok kolay");
         //version4
 
+        System.out.println("fatih branchi kodunu tamamladi ");
+        //version fth1
+
     }
 
 }
