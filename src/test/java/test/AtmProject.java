@@ -13,6 +13,8 @@ public class AtmProject {
 
         System.out.println("fatih branchi kodunu tamamladi ");
         //version fth1
+        System.out.println("bir kisim kodlar");
+        //fth2
 
     }
 
