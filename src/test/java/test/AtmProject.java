@@ -17,5 +17,6 @@ public class AtmProject {
         //fth2
 
     }
+    //remote repoda degisiklik yaptim
 
 }
